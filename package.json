@@ -2,7 +2,7 @@
   "name": "react-native-ssi-template",
   "version": "0.0.1",
   "description": "This is a react native ssi template",
-  "repository": "git@github.com:sairanjitAW/react-native-ssi-template.git",
+  "repository": "https://github.com/sairanjitAW/react-native-ssi-template",
   "author": "Sai Ranjit Tummalapalli <sairanjit.tummalapalli@ayanworks.com>",
   "license": "MIT"
 }
